@@ -1,0 +1,495 @@
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .sidemenu{ width: 190px;
+    }
+    .logo {
+     position: relative;
+     padding-top: 49px;
+     padding-left: 31px;
+    }
+    .sidemenu span {
+     font-size: 23px;
+    }
+    .sidemenu nav {
+     padding-top: 95px;
+ }
+ .sidemenu nav a {
+     display: block;
+     color: rgb(83, 80, 80);
+     text-decoration: none;
+     padding: 11px 29px;
+     font-size: 15px;
+ }
+ .logout {
+     margin-top: 59px;
+     font-size: 11px;
+     padding: 7px 17px;
+     margin-left: 45px;
+ }
+ header {
+    margin-left: 195px;
+    overflow: hidden;
+    height: 81px;
+}
+.block {
+    margin-left: 195px;
+    /* margin-top: 0px; */
+}
+.first {
+    margin-left: -16px;
+    padding: 0px;
+    width: 285px;
+}
+.card {
+    margin-left: 195px;
+}
+
+.heading ul li {
+    float: left;
+    width: 216px;
+    margin-left: 10px;
+    /* text-decoration: none; */
+    list-style: none;
+}
+.heading ul {
+    /* float: left; */
+    overflow: hidden;
+    width: 910px;
+}
+.heading ul li h3 {
+    font-size: 15px;
+    padding-left: 19px;
+}
+.heading ul li h3 i {
+    float: right;
+    margin-right: 0px;
+}
+.box{
+    margin-right: 23px;
+    width: 201px;
+    height: 515px;
+}
+meter {
+    width: 175px;
+}
+.card4 {
+    height: 128px;
+}
+.time2 p {
+    color: #FFCE75;
+    margin-left: 1px;
+    font-size: 12px;
+}
+.box-1 ul li {
+    
+    margin-left: 13px;
+}
+i.fas.fa-plus {
+    /* height: 7px; */
+   
+    padding: 10px;
+}
+img.thumbs1 {
+   
+    height: 30px;
+}
+img.thumbs2 {
+   
+    height: 33px;
+}
+
+img.thumbs3 {
+   
+    height: 33px;
+}
+
+img.thumbs4 {
+   
+    height: 33px;
+}
+
+img.thumbs5 {
+   
+    height: 33px;
+}
+.box-1 h3 {
+     font-size: 20px;
+     margin-right: 40px;
+}
+
+
+
+}
+
+@media (min-width: 767.98px) and (max-width: 1200.98px) {
+    .sidemenu{ width: 190px;
+    }
+    .logo {
+     position: relative;
+     padding-top: 49px;
+     padding-left: 31px;
+    }
+    .sidemenu span {
+     font-size: 23px;
+    }
+    .sidemenu nav {
+     padding-top: 95px;
+ }
+ .sidemenu nav a {
+     display: block;
+     color: rgb(83, 80, 80);
+     text-decoration: none;
+     padding: 11px 29px;
+     font-size: 15px;
+ }
+ .logout {
+     margin-top: 59px;
+     font-size: 11px;
+     padding: 7px 17px;
+     margin-left: 45px;
+ }
+ header {
+    margin-left: 195px;
+    overflow: hidden;
+    height: 81px;
+}
+.block {
+    margin-left: 195px;
+    /* margin-top: 0px; */
+}
+.first {
+    margin-left: -16px;
+    padding: 0px;
+    width: 285px;
+}
+.card {
+    margin-left: 195px;
+}
+
+.heading ul li {
+    float: left;
+    width: 216px;
+    margin-left: 10px;
+    /* text-decoration: none; */
+    list-style: none;
+}
+.heading ul {
+    /* float: left; */
+    overflow: hidden;
+    width: 910px;
+}
+.heading ul li h3 {
+    font-size: 15px;
+    padding-left: 19px;
+}
+.heading ul li h3 i {
+    float: right;
+    margin-right: 0px;
+}
+.box{
+    margin-right: 23px;
+    width: 201px;
+    height: 515px;
+}
+meter {
+    width: 175px;
+}
+.card4 {
+    height: 128px;
+}
+.time2 p {
+    color: #FFCE75;
+    margin-left: 1px;
+    font-size: 12px;
+}
+.box-1 ul li {
+    
+    margin-left: 13px;
+}
+i.fas.fa-plus {
+    /* height: 7px; */
+   
+    padding: 10px;
+}
+img.thumbs1 {
+   
+    height: 30px;
+}
+img.thumbs2 {
+   
+    height: 33px;
+}
+
+img.thumbs3 {
+   
+    height: 33px;
+}
+
+img.thumbs4 {
+   
+    height: 33px;
+}
+
+img.thumbs5 {
+   
+    height: 33px;
+}
+.box-1 h3 {
+     font-size: 20px;
+     margin-right: 40px;
+}
+
+
+
+
+
+}
+
+
+
+@media (max-width: 575.99px) {
+
+    .sidemenu{ width: 190px;
+    }
+    .logo {
+     position: relative;
+     padding-top: 49px;
+     padding-left: 31px;
+    }
+    .sidemenu span {
+     font-size: 23px;
+    }
+    .sidemenu nav {
+     padding-top: 95px;
+ }
+ .sidemenu nav a {
+     display: block;
+     color: rgb(83, 80, 80);
+     text-decoration: none;
+     padding: 11px 29px;
+     font-size: 15px;
+ }
+ .logout {
+     margin-top: 59px;
+     font-size: 11px;
+     padding: 7px 17px;
+     margin-left: 45px;
+ }
+ header {
+    margin-left: 195px;
+    overflow: hidden;
+    height: 81px;
+}
+.block {
+    margin-left: 195px;
+    /* margin-top: 0px; */
+}
+.first {
+    margin-left: -16px;
+    padding: 0px;
+    width: 285px;
+}
+.card {
+    margin-left: 195px;
+}
+
+.heading ul li {
+    float: left;
+    width: 216px;
+    margin-left: 10px;
+    /* text-decoration: none; */
+    list-style: none;
+}
+.heading ul {
+    /* float: left; */
+    overflow: hidden;
+    width: 910px;
+}
+.heading ul li h3 {
+    font-size: 15px;
+    padding-left: 19px;
+}
+.heading ul li h3 i {
+    float: right;
+    margin-right: 0px;
+}
+.box{
+    margin-right: 23px;
+    width: 201px;
+    height: 515px;
+}
+meter {
+    width: 175px;
+}
+.card4 {
+    height: 128px;
+}
+.time2 p {
+    color: #FFCE75;
+    margin-left: 1px;
+    font-size: 12px;
+}
+.box-1 ul li {
+    
+    margin-left: 13px;
+}
+i.fas.fa-plus {
+    /* height: 7px; */
+   
+    padding: 10px;
+}
+img.thumbs1 {
+   
+    height: 30px;
+}
+img.thumbs2 {
+   
+    height: 33px;
+}
+
+img.thumbs3 {
+   
+    height: 33px;
+}
+
+img.thumbs4 {
+   
+    height: 33px;
+}
+
+img.thumbs5 {
+   
+    height: 33px;
+}
+.box-1 h3 {
+     font-size: 20px;
+     margin-right: 40px;
+}
+
+
+}
+
+@media (min-width: 1200px) and (max-width: 1700px) { 
+   .sidemenu{ width: 190px;
+   }
+   .logo {
+    position: relative;
+    padding-top: 49px;
+    padding-left: 31px;
+   }
+   .sidemenu span {
+    font-size: 23px;
+   }
+   .sidemenu nav {
+    padding-top: 95px;
+}
+.sidemenu nav a {
+    display: block;
+    color: rgb(83, 80, 80);
+    text-decoration: none;
+    padding: 11px 29px;
+    font-size: 15px;
+}
+.logout {
+    margin-top: 59px;
+    font-size: 11px;
+    padding: 7px 17px;
+    margin-left: 45px;
+}
+header {
+    margin-left: 195px;
+    overflow: hidden;
+    height: 81px;
+}
+.block {
+    margin-left: 195px;
+    /* margin-top: 0px; */
+}
+.first {
+    margin-left: -16px;
+    padding: 0px;
+    width: 285px;
+}
+.card {
+    margin-left: 195px;
+}
+
+.heading ul li {
+    float: left;
+    width: 250px;
+    margin-left: 10px;
+    /* text-decoration: none; */
+    list-style: none;
+}
+.heading ul {
+    /* float: left; */
+    overflow: hidden;
+    width: 1060px;
+}
+.heading ul li h3 {
+    font-size: 20px;
+    padding-left: 19px;
+}
+.heading ul li h3 i {
+    float: right;
+    margin-right: 0px;
+}
+.box{
+    margin-right: 23px;
+    width: 230px;
+    height: 515px;
+}
+meter {
+    width: 209px;
+}
+.card4 {
+    height: 146px;
+}
+.time2 p {
+    color: #FFCE75;
+    margin-left: 1px;
+    font-size: 12px;
+}
+.box-1 ul li {
+    
+    margin-left: 13px;
+}
+i.fas.fa-plus {
+    /* height: 7px; */
+   
+    padding: 10px;
+}
+img.thumbs1 {
+   
+    height: 30px;
+}
+img.thumbs2 {
+   
+    height: 33px;
+}
+
+img.thumbs3 {
+   
+    height: 33px;
+}
+
+img.thumbs4 {
+   
+    height: 33px;
+}
+
+img.thumbs5 {
+   
+    height: 33px;
+}
+.box-1 h3 {
+     font-size: 20px;
+     margin-right: 40px;
+}
+
+
+
+
+
+
+
+}
