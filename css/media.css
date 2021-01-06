@@ -26,12 +26,12 @@
      margin-left: 45px;
  }
  header {
-    margin-left: 195px;
+    margin-left: 190px;
     overflow: hidden;
     height: 81px;
 }
 .block {
-    margin-left: 195px;
+    margin-left: 190px;
     /* margin-top: 0px; */
 }
 .first {
@@ -40,7 +40,8 @@
     width: 285px;
 }
 .card {
-    margin-left: 195px;
+    margin-left: 190px;
+    grid-auto-columns: 1fr 1fr 1fr 1fr;
 }
 
 .heading ul li {
@@ -69,7 +70,10 @@
     height: 515px;
 }
 meter {
-    width: 175px;
+    width: 161px;
+    height: 12px;
+    padding-left: 4px;
+    padding-right: 4px;
 }
 .card4 {
     height: 128px;
@@ -115,6 +119,88 @@ img.thumbs5 {
      font-size: 20px;
      margin-right: 40px;
 }
+header .tasks1 h3 {
+    font-size: 20px;
+    margin-top: 11px;
+}
+header .tasks1 {
+    padding: 22px;
+}
+header .tasks1 span select {
+    width: 38px;
+}
+header .tasks1 span {
+    margin-left: 16px;
+    font-size: 12px;
+    top: 48%;
+    width: 96px;
+}
+header .tasks2 a {
+    display: inline-block;
+    padding: 5px;
+    margin-top: 14px;
+ }
+    .search i {
+        height: 15px;
+        width: 15px;
+        font-size: 15px;
+    }
+    .notification i {
+        height: 15px;
+        width: 15px;
+        font-size: 15px;
+    }
+    .user-area {
+        width: 60px;
+    }
+    .user-img {
+        height: 18px;
+        width: 18px;
+        margin-left: 15px;
+    }
+
+    .user-area i {
+        position: absolute;
+        top: 30%;
+    }
+    .block span {
+        display: inline-block;
+        height: 1px;
+        width: 93%;
+        margin-left: 18px;
+    }
+    .heading ul {
+        width: 405px;
+    }
+    .heading ul li {
+        width: 177px;
+        margin-left: 23px;
+    }
+    .heading ul li h3 {
+        font-size: 13px;
+        padding-left: 0px;
+    }
+    .content {
+        margin-top: 16px;
+        width: 100%;
+        display: grid;
+        margin-left: 13px;
+    }
+    .box {
+        margin-right: auto;
+        width: 241px;
+        height: 525px;
+        margin-bottom: 25px;
+    }
+    .box-1 ul li {
+        margin-left: 23px;
+    }
+
+
+
+
+
+
 
 
 
@@ -152,10 +238,32 @@ img.thumbs5 {
     overflow: hidden;
     height: 81px;
 }
+header .tasks1 h3 {
+    float: left;
+    font-size: 24px; }
+    header .tasks1 span {
+        margin-left: 64px;
+        font-size: 17px;
+        top: 44%; }
+        .heading ul li {
+            float: left;
+            margin-left: 3px;
+            width: 318px;
+            /* margin-right: 10px; */
+            padding: 5px;
+        }
+
+
+
 .block {
     margin-left: 195px;
     /* margin-top: 0px; */
 }
+.block span {
+    display: inline-block;
+    height: 1px;
+    width: 94%; }
+
 .first {
     margin-left: -16px;
     padding: 0px;
@@ -164,31 +272,26 @@ img.thumbs5 {
 .card {
     margin-left: 195px;
 }
-
-.heading ul li {
-    float: left;
-    width: 216px;
-    margin-left: 10px;
-    /* text-decoration: none; */
-    list-style: none;
-}
 .heading ul {
     /* float: left; */
     overflow: hidden;
-    width: 910px;
+    width: 655px;
 }
 .heading ul li h3 {
     font-size: 15px;
-    padding-left: 19px;
+    padding-left: 15px;
 }
 .heading ul li h3 i {
     float: right;
-    margin-right: 0px;
+    margin-right: 98px;
 }
-.box{
-    margin-right: 23px;
+.box {
+    margin-right: auto;
     width: 201px;
-    height: 515px;
+    margin-bottom: 25px;
+    float: left;
+    margin-left: 47px;
+    height: 514px;
 }
 meter {
     width: 175px;
@@ -237,6 +340,17 @@ img.thumbs5 {
      font-size: 20px;
      margin-right: 40px;
 }
+.content {
+    margin-top: 35px;
+    display: contents;
+    margin-left: 27px;
+    overflow: hidden;
+}
+.card .heading {
+    margin-bottom: 25px;
+}
+
+
 
 
 
@@ -248,39 +362,40 @@ img.thumbs5 {
 
 @media (max-width: 575.99px) {
 
-    .sidemenu{ width: 190px;
+    .sidemenu{
+    width: 130px;
     }
     .logo {
      position: relative;
      padding-top: 49px;
-     padding-left: 31px;
+     padding-left: 14px;
     }
     .sidemenu span {
-     font-size: 23px;
+     font-size: 19px;
     }
     .sidemenu nav {
-     padding-top: 95px;
+     padding-top: 35px;
  }
  .sidemenu nav a {
      display: block;
      color: rgb(83, 80, 80);
      text-decoration: none;
-     padding: 11px 29px;
-     font-size: 15px;
+     padding: 11px 7px;
+     font-size: 14px;
  }
  .logout {
      margin-top: 59px;
-     font-size: 11px;
+     font-size: 10px;
      padding: 7px 17px;
-     margin-left: 45px;
+     margin-left: 16px;
  }
  header {
-    margin-left: 195px;
+    margin-left: 120px;
     overflow: hidden;
     height: 81px;
 }
 .block {
-    margin-left: 195px;
+    margin-left: 120px;
     /* margin-top: 0px; */
 }
 .first {
@@ -289,7 +404,8 @@ img.thumbs5 {
     width: 285px;
 }
 .card {
-    margin-left: 195px;
+    margin-left: 130px;
+    grid-auto-columns: 1fr 1fr 1fr 1fr;
 }
 
 .heading ul li {
@@ -318,7 +434,10 @@ img.thumbs5 {
     height: 515px;
 }
 meter {
-    width: 175px;
+    width: 161px;
+    height: 12px;
+    padding-left: 4px;
+    padding-right: 4px;
 }
 .card4 {
     height: 128px;
@@ -364,11 +483,94 @@ img.thumbs5 {
      font-size: 20px;
      margin-right: 40px;
 }
+header .tasks1 h3 {
+    font-size: 20px;
+    margin-top: 11px;
+}
+header .tasks1 {
+    padding: 22px;
+}
+header .tasks1 span select {
+    width: 38px;
+}
+header .tasks1 span {
+    margin-left: 16px;
+    font-size: 12px;
+    top: 48%;
+    width: 96px;
+}
+header .tasks2 a {
+    display: inline-block;
+    padding: 5px;
+    margin-top: 14px;
+ }
+    .search i {
+        height: 15px;
+        width: 15px;
+        font-size: 15px;
+    }
+    .notification i {
+        height: 15px;
+        width: 15px;
+        font-size: 15px;
+    }
+    .user-area {
+        width: 60px;
+    }
+    .user-img {
+        height: 18px;
+        width: 18px;
+        margin-left: 15px;
+    }
+
+    .user-area i {
+        position: absolute;
+        top: 30%;
+    }
+    .block span {
+        display: inline-block;
+        height: 1px;
+        width: 93%;
+        margin-left: 18px;
+    }
+    .heading ul {
+        width: 362px;
+    }
+    .heading ul li {
+        width: 177px;
+        margin-left: 2px;
+    }
+    .heading ul li h3 {
+        font-size: 13px;
+        padding-left: 0px;
+    }
+    .content {
+        margin-top: 16px;
+        width: 340px;
+        display: grid;
+        margin-left: 13px;
+    }
+    .box {
+        margin-right: 53px;
+        width: 241px;
+        height: 525px;
+        margin-bottom: 25px;
+    }
+    .box-1 ul li {
+        margin-left: 23px;
+    }
+
+
+
+
+
+
+
 
 
 }
 
-@media (min-width: 1200px) and (max-width: 1700px) { 
+@media (min-width: 1200px) and (max-width: 1500px) { 
    .sidemenu{ width: 190px;
    }
    .logo {
@@ -493,3 +695,6 @@ img.thumbs5 {
 
 
 }
+
+
+@media (min-width: 1500px) and (max-width: 1900px) { 
